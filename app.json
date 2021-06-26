@@ -41,7 +41,7 @@
     },
     "SUDO_HANDLER": {
       "description": "Your command handler. Default is ' . ' (dot).",
-      "value": "*"
+      "value": "'"
     },
     "EMOJI_IN_HELP": {
       "description": "A emoji to display in help command",
